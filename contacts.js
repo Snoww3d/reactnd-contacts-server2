@@ -7,7 +7,7 @@ const defaultData = {
   contacts: [
     {
       id: 'richard',
-      name: 'Richard Kalehoff',
+      name: 'asdfljasldkf Kalehoff',
       handle: '@richardkalehoff',
       avatarURL: config.origin + '/richard.jpg'
     },
